@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'bootstrap-icons';
+    src: url('../fonts/bootstrap-icons.woff'), url('../fonts/bootstrap-icons.woff2') ;
+}
+
+.img-card{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
